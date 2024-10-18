@@ -63,7 +63,7 @@
                         <li><a class="btn btn-outline-info dropdown-item border-top border-info lh-1"  href="#"></a></li>
                         <li><a class="btn btn-outline-info dropdown-item lh-1" href="#">Membership</a></li>
                         <li><a class="btn btn-outline-info dropdown-item lh-1" href="#">Saving</a></li>
-                        <li><a class="btn btn-outline-info dropdown-item lh-1" href="#">Loan</a></li>
+                        <li><a class="btn btn-outline-info dropdown-item lh-1" href="../pages/loan.php">Loan</a></li>
                         <li><a class="btn btn-outline-info dropdown-item lh-1" href="#">Account Inquiry</a></li>
                     </ul>
                 </div>
